@@ -6,5 +6,5 @@ I have used OpenWeather's API to gather the weather data into my website
 I have used HTML,CSS,JS to develope this webpage
 
 #Updates
-I am having troubles showing the forcast data into my website, and I am working continuously to resolve that
-Once the project has been done, I will update this file.
+The weather web page is completed, it works perfectly fine, you can use the source code. 
+Thank you...
